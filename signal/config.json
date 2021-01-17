@@ -1,7 +1,7 @@
 {
-  "name": "Signal Messenger",
+  "name": "Signal Messenger - fork",
   "url": "https://github.com/ed-holland/hassio_addons",
-  "version": "0.91",
+  "version": "0.92",
   "slug": "signal_messenger",
   "ingress": false,
   "ingress_port": 0,
